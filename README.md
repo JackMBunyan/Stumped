@@ -1,6 +1,6 @@
 # Stumped
 
-CSS Halloween Game Jam 2021 Submission: file is name tree due to time constraint during jam.
+CSS Halloween Game Jam 2021 Submission: file is name tree due to time constraint during jam - but a name was never settled on within the timeframe.
 
 ## Project Description
 
